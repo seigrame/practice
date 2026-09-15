@@ -1,0 +1,13 @@
+C:\Users\김경환\source\repos\advenced_addPlayer\bin\Debug\netcoreapp3.1\addPlayer.exe
+C:\Users\김경환\source\repos\advenced_addPlayer\bin\Debug\netcoreapp3.1\addPlayer.deps.json
+C:\Users\김경환\source\repos\advenced_addPlayer\bin\Debug\netcoreapp3.1\addPlayer.runtimeconfig.json
+C:\Users\김경환\source\repos\advenced_addPlayer\bin\Debug\netcoreapp3.1\addPlayer.runtimeconfig.dev.json
+C:\Users\김경환\source\repos\advenced_addPlayer\bin\Debug\netcoreapp3.1\addPlayer.dll
+C:\Users\김경환\source\repos\advenced_addPlayer\bin\Debug\netcoreapp3.1\addPlayer.pdb
+C:\Users\김경환\source\repos\advenced_addPlayer\obj\Debug\netcoreapp3.1\addPlayer.csprojAssemblyReference.cache
+C:\Users\김경환\source\repos\advenced_addPlayer\obj\Debug\netcoreapp3.1\addPlayer.AssemblyInfoInputs.cache
+C:\Users\김경환\source\repos\advenced_addPlayer\obj\Debug\netcoreapp3.1\addPlayer.AssemblyInfo.cs
+C:\Users\김경환\source\repos\advenced_addPlayer\obj\Debug\netcoreapp3.1\addPlayer.csproj.CoreCompileInputs.cache
+C:\Users\김경환\source\repos\advenced_addPlayer\obj\Debug\netcoreapp3.1\addPlayer.dll
+C:\Users\김경환\source\repos\advenced_addPlayer\obj\Debug\netcoreapp3.1\addPlayer.pdb
+C:\Users\김경환\source\repos\advenced_addPlayer\obj\Debug\netcoreapp3.1\addPlayer.genruntimeconfig.cache

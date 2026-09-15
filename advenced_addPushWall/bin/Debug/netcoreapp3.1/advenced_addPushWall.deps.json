@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "advenced_addPushWall/1.0.0": {
+        "runtime": {
+          "advenced_addPushWall.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "advenced_addPushWall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

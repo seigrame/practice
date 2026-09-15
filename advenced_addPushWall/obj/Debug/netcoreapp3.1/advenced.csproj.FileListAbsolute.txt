@@ -1,0 +1,13 @@
+C:\Users\김경환\source\repos\advenced\bin\Debug\netcoreapp3.1\advenced.exe
+C:\Users\김경환\source\repos\advenced\bin\Debug\netcoreapp3.1\advenced.deps.json
+C:\Users\김경환\source\repos\advenced\bin\Debug\netcoreapp3.1\advenced.runtimeconfig.json
+C:\Users\김경환\source\repos\advenced\bin\Debug\netcoreapp3.1\advenced.runtimeconfig.dev.json
+C:\Users\김경환\source\repos\advenced\bin\Debug\netcoreapp3.1\advenced.dll
+C:\Users\김경환\source\repos\advenced\bin\Debug\netcoreapp3.1\advenced.pdb
+C:\Users\김경환\source\repos\advenced\obj\Debug\netcoreapp3.1\advenced.csprojAssemblyReference.cache
+C:\Users\김경환\source\repos\advenced\obj\Debug\netcoreapp3.1\advenced.AssemblyInfoInputs.cache
+C:\Users\김경환\source\repos\advenced\obj\Debug\netcoreapp3.1\advenced.AssemblyInfo.cs
+C:\Users\김경환\source\repos\advenced\obj\Debug\netcoreapp3.1\advenced.csproj.CoreCompileInputs.cache
+C:\Users\김경환\source\repos\advenced\obj\Debug\netcoreapp3.1\advenced.dll
+C:\Users\김경환\source\repos\advenced\obj\Debug\netcoreapp3.1\advenced.pdb
+C:\Users\김경환\source\repos\advenced\obj\Debug\netcoreapp3.1\advenced.genruntimeconfig.cache

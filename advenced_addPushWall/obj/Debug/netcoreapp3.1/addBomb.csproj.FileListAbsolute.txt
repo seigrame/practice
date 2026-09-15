@@ -1,0 +1,13 @@
+C:\Users\김경환\source\repos\advenced_addBomb\bin\Debug\netcoreapp3.1\addBomb.exe
+C:\Users\김경환\source\repos\advenced_addBomb\bin\Debug\netcoreapp3.1\addBomb.deps.json
+C:\Users\김경환\source\repos\advenced_addBomb\bin\Debug\netcoreapp3.1\addBomb.runtimeconfig.json
+C:\Users\김경환\source\repos\advenced_addBomb\bin\Debug\netcoreapp3.1\addBomb.runtimeconfig.dev.json
+C:\Users\김경환\source\repos\advenced_addBomb\bin\Debug\netcoreapp3.1\addBomb.dll
+C:\Users\김경환\source\repos\advenced_addBomb\bin\Debug\netcoreapp3.1\addBomb.pdb
+C:\Users\김경환\source\repos\advenced_addBomb\obj\Debug\netcoreapp3.1\addBomb.AssemblyInfoInputs.cache
+C:\Users\김경환\source\repos\advenced_addBomb\obj\Debug\netcoreapp3.1\addBomb.AssemblyInfo.cs
+C:\Users\김경환\source\repos\advenced_addBomb\obj\Debug\netcoreapp3.1\addBomb.csproj.CoreCompileInputs.cache
+C:\Users\김경환\source\repos\advenced_addBomb\obj\Debug\netcoreapp3.1\addBomb.dll
+C:\Users\김경환\source\repos\advenced_addBomb\obj\Debug\netcoreapp3.1\addBomb.pdb
+C:\Users\김경환\source\repos\advenced_addBomb\obj\Debug\netcoreapp3.1\addBomb.genruntimeconfig.cache
+C:\Users\김경환\source\repos\advenced_addBomb\obj\Debug\netcoreapp3.1\addBomb.csprojAssemblyReference.cache

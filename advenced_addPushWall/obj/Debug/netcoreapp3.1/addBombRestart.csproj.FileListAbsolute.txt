@@ -1,0 +1,13 @@
+C:\Users\김경환\source\repos\advenced_addBombRestart\bin\Debug\netcoreapp3.1\addBombRestart.exe
+C:\Users\김경환\source\repos\advenced_addBombRestart\bin\Debug\netcoreapp3.1\addBombRestart.deps.json
+C:\Users\김경환\source\repos\advenced_addBombRestart\bin\Debug\netcoreapp3.1\addBombRestart.runtimeconfig.json
+C:\Users\김경환\source\repos\advenced_addBombRestart\bin\Debug\netcoreapp3.1\addBombRestart.runtimeconfig.dev.json
+C:\Users\김경환\source\repos\advenced_addBombRestart\bin\Debug\netcoreapp3.1\addBombRestart.dll
+C:\Users\김경환\source\repos\advenced_addBombRestart\bin\Debug\netcoreapp3.1\addBombRestart.pdb
+C:\Users\김경환\source\repos\advenced_addBombRestart\obj\Debug\netcoreapp3.1\addBombRestart.csprojAssemblyReference.cache
+C:\Users\김경환\source\repos\advenced_addBombRestart\obj\Debug\netcoreapp3.1\addBombRestart.AssemblyInfoInputs.cache
+C:\Users\김경환\source\repos\advenced_addBombRestart\obj\Debug\netcoreapp3.1\addBombRestart.AssemblyInfo.cs
+C:\Users\김경환\source\repos\advenced_addBombRestart\obj\Debug\netcoreapp3.1\addBombRestart.csproj.CoreCompileInputs.cache
+C:\Users\김경환\source\repos\advenced_addBombRestart\obj\Debug\netcoreapp3.1\addBombRestart.dll
+C:\Users\김경환\source\repos\advenced_addBombRestart\obj\Debug\netcoreapp3.1\addBombRestart.pdb
+C:\Users\김경환\source\repos\advenced_addBombRestart\obj\Debug\netcoreapp3.1\addBombRestart.genruntimeconfig.cache
